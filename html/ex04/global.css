@@ -1,3 +1,20 @@
-body{
-
+h1{
+    background-color: red;
 }
+a{
+    background-color: red;
+}
+button{
+    background-color: red;
+}
+img{
+    border: 1ps solid red;
+}
+/* for an id... */
+#main-click{
+    background: green;
+}
+/*
+    in css, "specificity" states that #id style rules have a higher priority than
+    #class rules.
+*/
